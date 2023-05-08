@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="dp_70">70dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_150">150dp</dimen>
+    <dimen name="dp_300">300dp</dimen>
+    <dimen name="dp_350">350dp</dimen>
+    <dimen name="dp_400">400dp</dimen>
+    <dimen name="dp_450">450dp</dimen>
+</resources>

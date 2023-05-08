@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ll_item"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:background="#fff"
+    android:orientation="horizontal">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="128dp"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/jianyi_zhiding"
+            android:text="编辑"
+            android:background="#eaeaea"
+            android:textColor="#222222"
+            android:gravity="center"
+            android:textAlignment="center"
+            android:layout_width="64dp"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/jianyi_delete"
+            android:text="删除"
+            android:background="#D52619"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:textAlignment="center"
+            android:layout_width="64dp"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+</LinearLayout>
